@@ -106,3 +106,6 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ss]ceneDependencyCache*
 
 .DS_Store
+.vscode/
+.plastic/
+*_BurstDebugInformation_DoNotShip/
