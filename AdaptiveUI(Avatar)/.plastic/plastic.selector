@@ -1,4 +1,0 @@
-repository "AdaptiveUI(Avatar) 2026-01-30_16-33-25/AdaptiveUI(Avatar)@5773830791757@cloud"
-  path "/"
-    br "/main"
-    co "/main"
