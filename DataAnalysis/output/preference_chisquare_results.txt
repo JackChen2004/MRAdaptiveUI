@@ -1,0 +1,24 @@
+Chi-square goodness-of-fit test for UI preference
+=======================================================
+
+Observed counts:
+  C0 (Static UI): 7
+  C1 (Dynamic UI (Left Movement)): 4
+  C2 (Dynamic UI (Upward Movement)): 9
+
+Expected counts under H0 (equal preference):
+  C0 (Static UI): 6.667
+  C1 (Dynamic UI (Left Movement)): 6.667
+  C2 (Dynamic UI (Upward Movement)): 6.667
+
+Total N = 20
+Chi-square statistic = 1.9000
+Degrees of freedom = 2
+p-value = 0.386741
+
+Result: Fail to reject H0 at alpha = 0.05.
+The preference distribution does not significantly differ from equal preference.
+
+Note:
+This test evaluates whether the three preference categories are equally likely overall.
+It does not directly test whether C2 is significantly preferred over both C0 and C1 individually.

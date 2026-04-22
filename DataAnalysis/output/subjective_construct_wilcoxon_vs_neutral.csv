@@ -1,0 +1,4 @@
+﻿construct,neutral_value,n,mean,median,wilcoxon_statistic,p_value_one_sided_greater,n_nonzero_differences
+ui_visibility_movement_score,3,20,3.11875,3.125,123.0,0.24957572559605762,20
+avatar_interaction_score,3,20,3.225,3.375,106.0,0.08025321309363942,17
+comfort_presence_score,3,20,3.141666666666667,3.416666666666667,118.5,0.17166364487935193,19
