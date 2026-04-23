@@ -19,3 +19,5 @@ StreamingAssets*
 .vscode/
 .DS_Store
 *_BurstDebugInformation_DoNotShip/
+*.apk
+*.slnx
